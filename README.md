@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @roshan2057
-- 👀 I’m interested in Web DeveDevelopment 
+- 👋 Hi, I’m Roshan Karki from Nepal
+- 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning laravel framework
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me https://roshankarki21.com.np/#contact
