@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roshan Karki from Nepal
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning laravel framework
+- 🌱 I’m currently learning React-js and Node-js
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me https://roshankarki21.com.np/#contact
 - OR https://www.linkedin.com/in/roshan-karki-b9057223a/
